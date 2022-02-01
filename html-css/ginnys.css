@@ -1,0 +1,31 @@
+h1 {
+    color: brown;
+    font-family: sans-serif;
+    background-color: aquamarine;
+}
+
+h3 {
+    color: brown;
+}
+div button {
+    color : brown;
+    background-color: aquamarine;
+    font-family: sans-serif; 
+    
+}
+
+img {
+    height: 250px;
+    min-height: 100px;
+    max-height: 400px;
+    width: 30%;
+    min-width: 100px;
+    max-width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+
+}
+
+
